@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+sklearn
+mlextend
+scipy
+IPython
+itertools
+importlib
+warnings
