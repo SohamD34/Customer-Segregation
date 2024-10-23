@@ -1,7 +1,7 @@
 # Retail Customer Segregation using Purchase Behavior Analysis
 
-<div style="width:100%">
-  <img src="https://github.com/user-attachments/assets/4d97a28d-44c9-4f30-98b5-b7ba2b753f46">
+<div>
+  <img src="https://github.com/user-attachments/assets/4d97a28d-44c9-4f30-98b5-b7ba2b753f46" width="100%">
 </div>
 
 
