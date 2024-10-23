@@ -1,6 +1,8 @@
 # Retail Customer Segregation using Purchase Behavior Analysis
 
+<div style="width:100%">
 ![image](https://github.com/user-attachments/assets/4d97a28d-44c9-4f30-98b5-b7ba2b753f46)
+</div>
 
 
 This project aims to provide personalized recommendations for users based on their past behavior and preferences. 
