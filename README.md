@@ -1,5 +1,8 @@
 # Retail Customer Segregation using Purchase Behavior Analysis
 
+![image](https://github.com/user-attachments/assets/4d97a28d-44c9-4f30-98b5-b7ba2b753f46)
+
+
 This project aims to provide personalized recommendations for users based on their past behavior and preferences. 
 The model also includes analytical capabilities that allow for the exploration of user behavior and product trends, that can be pinpointed down to the single user depending on factors such as location, time, etc.
 
