@@ -21,4 +21,5 @@ Based on these bifurcations, we can predict and suggest the possible set of prod
 The dataset used in this project can be accessed from https://archive.ics.uci.edu/dataset/352/online+retail
 It is a transnational data set that contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.
 
-Link to  <a src="https://colab.research.google.com/drive/1sUGeie0061maJPwpwEhP9gpby0XEIotg#scrollTo=xnia-guAUPaM">models.ipynb</a>
+Link to [[models.ipynb](https://colab.research.google.com/drive/1sUGeie0061maJPwpwEhP9gpby0XEIotg#scrollTo=xnia-guAUPaM)]
+
